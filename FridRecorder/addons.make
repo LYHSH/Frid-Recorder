@@ -1,0 +1,8 @@
+ofxConstants
+ofxMD5Convert
+ofxMyDataSender
+ofxMyVideoControl
+ofxNetwork
+ofxPublicCmd
+ofxSerial
+ofxXmlSettings

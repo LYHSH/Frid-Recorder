@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxConstants\src\ofxMyConstants.cpp">
+			<Filter>addons\ofxConstants\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxMD5Convert\src\cmdConverter.cpp">
+			<Filter>addons\ofxMD5Convert\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxMD5Convert\src\md5Converter.cpp">
+			<Filter>addons\ofxMD5Convert\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxMD5Convert\src\nullConverter.cpp">
+			<Filter>addons\ofxMD5Convert\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxMD5Convert\src\timeSynMd5Converter.cpp">
+			<Filter>addons\ofxMD5Convert\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSender.cpp">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSenderFacory.cpp">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSenderMgr.cpp">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxSerialDataSender.cpp">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxTcpDataSender.cpp">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxUdpDataSender.cpp">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxMyVideoControl\src\ofxRemoteVideoControl.cpp">
+			<Filter>addons\ofxMyVideoControl\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxMyVideoControl\src\ofxRemoteVideoControlMgr.cpp">
+			<Filter>addons\ofxMyVideoControl\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxNetwork\src\ofxNetworkUtils.cpp">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxNetwork\src\ofxTCPClient.cpp">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxNetwork\src\ofxTCPManager.cpp">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxNetwork\src\ofxTCPServer.cpp">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxNetwork\src\ofxUDPManager.cpp">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.cpp">
+			<Filter>addons\ofxXmlSettings\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxXmlSettings\libs\tinyxml.cpp">
+			<Filter>addons\ofxXmlSettings\libs</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxXmlSettings\libs\tinyxmlerror.cpp">
+			<Filter>addons\ofxXmlSettings\libs</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\..\..\addons\ofxXmlSettings\libs\tinyxmlparser.cpp">
+			<Filter>addons\ofxXmlSettings\libs</Filter>
+		</ClCompile>
+	</ItemGroup>
+	<ItemGroup>
+		<Filter Include="src">
+			<UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons">
+			<UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxConstants">
+			<UniqueIdentifier>{E3754598-CA85-8CB3-071C-AB1A}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxConstants\src">
+			<UniqueIdentifier>{1E6D5BC5-A69E-1B43-E70D-744D}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMD5Convert">
+			<UniqueIdentifier>{0A4C8083-4F49-473E-FCB3-F7A9}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMD5Convert\src">
+			<UniqueIdentifier>{F4EE7640-D3D0-A71C-A9F1-294B}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMyDataSender">
+			<UniqueIdentifier>{F717C355-6611-7FA0-6B46-4F10}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMyDataSender\src">
+			<UniqueIdentifier>{E36B8253-5EE3-EFA6-F3E8-AFBA}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMyVideoControl">
+			<UniqueIdentifier>{AC75BBAC-96A6-3BA1-F944-B832}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMyVideoControl\src">
+			<UniqueIdentifier>{52A15F44-B2D3-CC51-149B-487D}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxNetwork">
+			<UniqueIdentifier>{01A15744-29A6-108D-08E9-83A7}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxNetwork\src">
+			<UniqueIdentifier>{3D1C10C7-8F35-E796-9C70-F5F3}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxPublicCmd">
+			<UniqueIdentifier>{47A2A0E3-BDC4-8AC5-53C4-5095}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxPublicCmd\src">
+			<UniqueIdentifier>{DE4AE920-C1ED-3BF4-E33C-89CC}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxSerial">
+			<UniqueIdentifier>{E1E4AE73-4A0A-7627-37ED-3253}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxSerial\src">
+			<UniqueIdentifier>{A215C2B7-2A7F-4B7B-0D28-5393}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxXmlSettings">
+			<UniqueIdentifier>{877F005D-13E6-0592-1D97-F2E3}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxXmlSettings\src">
+			<UniqueIdentifier>{CCB2AC63-49D2-977C-CFE8-AEAD}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxXmlSettings\libs">
+			<UniqueIdentifier>{687714A8-1662-FA1C-261F-50F0}</UniqueIdentifier>
+		</Filter>
+	</ItemGroup>
+	<ItemGroup>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxConstants\src\ofxMyConstants.h">
+			<Filter>addons\ofxConstants\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxMD5Convert\src\cmdConverter.h">
+			<Filter>addons\ofxMD5Convert\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxMD5Convert\src\md5.h">
+			<Filter>addons\ofxMD5Convert\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxMD5Convert\src\md5Converter.h">
+			<Filter>addons\ofxMD5Convert\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxMD5Convert\src\nullConverter.h">
+			<Filter>addons\ofxMD5Convert\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxMD5Convert\src\timeSynMd5Converter.h">
+			<Filter>addons\ofxMD5Convert\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSender.h">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSenderFacory.h">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSenderMgr.h">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxSerialDataSender.h">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxTcpDataSender.h">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxUdpDataSender.h">
+			<Filter>addons\ofxMyDataSender\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxMyVideoControl\src\ofxRemoteVideoControl.h">
+			<Filter>addons\ofxMyVideoControl\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxMyVideoControl\src\ofxRemoteVideoControlMgr.h">
+			<Filter>addons\ofxMyVideoControl\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxNetwork\src\ofxNetwork.h">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxNetwork\src\ofxNetworkUtils.h">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxNetwork\src\ofxTCPClient.h">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxNetwork\src\ofxTCPManager.h">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxNetwork\src\ofxTCPServer.h">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxNetwork\src\ofxTCPSettings.h">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxNetwork\src\ofxUDPManager.h">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxNetwork\src\ofxUDPSettings.h">
+			<Filter>addons\ofxNetwork\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxPublicCmd\src\ofxPptCmd.h">
+			<Filter>addons\ofxPublicCmd\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxPublicCmd\src\ofxScreenCmd.h">
+			<Filter>addons\ofxPublicCmd\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxPublicCmd\src\ofxSoundPlayControlCmd.h">
+			<Filter>addons\ofxPublicCmd\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxPublicCmd\src\videoControlCmd.h">
+			<Filter>addons\ofxPublicCmd\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxSerial\src\ofxSerial.h">
+			<Filter>addons\ofxSerial\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.h">
+			<Filter>addons\ofxXmlSettings\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\..\..\addons\ofxXmlSettings\libs\tinyxml.h">
+			<Filter>addons\ofxXmlSettings\libs</Filter>
+		</ClInclude>
+	</ItemGroup>
+	<ItemGroup>
+		<ResourceCompile Include="icon.rc" />
+	</ItemGroup>
+</Project>
