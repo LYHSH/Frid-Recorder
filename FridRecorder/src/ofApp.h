@@ -38,4 +38,6 @@ class ofApp : public ofBaseApp{
 
 		HWND thiswnd;
 		bool debug;
+
+		bool readEndFlag;
 };

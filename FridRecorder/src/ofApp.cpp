@@ -7,6 +7,8 @@ void ofApp::setup(){
 
 	readTimeLen = 1.0f;
 
+	readEndFlag = false;
+
 	videoMgr.setup("control/video.xml");
 
 	{
@@ -47,7 +49,7 @@ void ofApp::update(){
 	
 	if (isReading)
 	{
-		if (ofGetElapsedTimef() - readTimer > readTimeLen)
+		if (ofGetElapsedTimef() - readTimer > readTimeLen || readEndFlag)
 		{
 			cout << numberStr << endl;
 
@@ -96,7 +98,15 @@ void ofApp::keyPressed(int key){
 	char temp = key;
 	cout << temp << endl;
 
-	numberStr += ofToString(temp);
+	if (temp != '\r')			//½áÎ²±ê¼Ç
+	{
+		numberStr += ofToString(temp);
+	}
+	else
+	{
+		readEndFlag = true;
+	}
+	
 }
 
 //--------------------------------------------------------------
@@ -155,4 +165,6 @@ void ofApp::reset()
 	readTimer = ofGetElapsedTimef();
 
 	numberStr = "";
+
+	readEndFlag = false;
 }
