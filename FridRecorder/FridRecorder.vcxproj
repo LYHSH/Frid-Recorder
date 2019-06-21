@@ -100,7 +100,7 @@
 			<PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
 			<RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
 			<WarningLevel>Level3</WarningLevel>
-			<AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);src;..\..\..\..\..\addons\ofxConstants\src;..\..\..\..\..\addons\ofxMD5Convert\src;..\..\..\..\..\addons\ofxMyDataSender\src;..\..\..\..\..\addons\ofxMyVideoControl\src;..\..\..\..\..\addons\ofxNetwork\src;..\..\..\..\..\addons\ofxPublicCmd\src;..\..\..\..\..\addons\ofxSerial\src;..\..\..\..\..\addons\ofxXmlSettings\libs;..\..\..\..\..\addons\ofxXmlSettings\src</AdditionalIncludeDirectories>
+			<AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);src;..\..\..\..\..\addons\ofxConstants\src;..\..\..\..\..\addons\ofxHardIdentification\src;..\..\..\..\..\addons\ofxMD5Convert\src;..\..\..\..\..\addons\ofxMyAppControl\src;..\..\..\..\..\addons\ofxMyDataSender\src;..\..\..\..\..\addons\ofxMyVideoControl\src;..\..\..\..\..\addons\ofxNetwork\src;..\..\..\..\..\addons\ofxPublicCmd\src;..\..\..\..\..\addons\ofxSerial\src;..\..\..\..\..\addons\ofxXmlSettings\libs;..\..\..\..\..\addons\ofxXmlSettings\src</AdditionalIncludeDirectories>
 			<CompileAs>CompileAsCpp</CompileAs>
 			<ObjectFileName>$(IntDir)</ObjectFileName>
 		</ClCompile>
@@ -120,7 +120,7 @@
 			<PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
 			<RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
 			<WarningLevel>Level3</WarningLevel>
-			<AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);src;..\..\..\..\..\addons\ofxConstants\src;..\..\..\..\..\addons\ofxMD5Convert\src;..\..\..\..\..\addons\ofxMyDataSender\src;..\..\..\..\..\addons\ofxMyVideoControl\src;..\..\..\..\..\addons\ofxNetwork\src;..\..\..\..\..\addons\ofxPublicCmd\src;..\..\..\..\..\addons\ofxSerial\src;..\..\..\..\..\addons\ofxXmlSettings\libs;..\..\..\..\..\addons\ofxXmlSettings\src</AdditionalIncludeDirectories>
+			<AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);src;..\..\..\..\..\addons\ofxConstants\src;..\..\..\..\..\addons\ofxHardIdentification\src;..\..\..\..\..\addons\ofxMD5Convert\src;..\..\..\..\..\addons\ofxMyAppControl\src;..\..\..\..\..\addons\ofxMyDataSender\src;..\..\..\..\..\addons\ofxMyVideoControl\src;..\..\..\..\..\addons\ofxNetwork\src;..\..\..\..\..\addons\ofxPublicCmd\src;..\..\..\..\..\addons\ofxSerial\src;..\..\..\..\..\addons\ofxXmlSettings\libs;..\..\..\..\..\addons\ofxXmlSettings\src</AdditionalIncludeDirectories>
 			<CompileAs>CompileAsCpp</CompileAs>
 			<MultiProcessorCompilation>true</MultiProcessorCompilation>
 			<ObjectFileName>$(IntDir)</ObjectFileName>
@@ -140,7 +140,7 @@
 			<PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
 			<RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
 			<WarningLevel>Level3</WarningLevel>
-			<AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);src;..\..\..\..\..\addons\ofxConstants\src;..\..\..\..\..\addons\ofxMD5Convert\src;..\..\..\..\..\addons\ofxMyDataSender\src;..\..\..\..\..\addons\ofxMyVideoControl\src;..\..\..\..\..\addons\ofxNetwork\src;..\..\..\..\..\addons\ofxPublicCmd\src;..\..\..\..\..\addons\ofxSerial\src;..\..\..\..\..\addons\ofxXmlSettings\libs;..\..\..\..\..\addons\ofxXmlSettings\src</AdditionalIncludeDirectories>
+			<AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);src;..\..\..\..\..\addons\ofxConstants\src;..\..\..\..\..\addons\ofxHardIdentification\src;..\..\..\..\..\addons\ofxMD5Convert\src;..\..\..\..\..\addons\ofxMyAppControl\src;..\..\..\..\..\addons\ofxMyDataSender\src;..\..\..\..\..\addons\ofxMyVideoControl\src;..\..\..\..\..\addons\ofxNetwork\src;..\..\..\..\..\addons\ofxPublicCmd\src;..\..\..\..\..\addons\ofxSerial\src;..\..\..\..\..\addons\ofxXmlSettings\libs;..\..\..\..\..\addons\ofxXmlSettings\src</AdditionalIncludeDirectories>
 			<CompileAs>CompileAsCpp</CompileAs>
 			<MultiProcessorCompilation>true</MultiProcessorCompilation>
 			<ObjectFileName>$(IntDir)</ObjectFileName>
@@ -163,7 +163,7 @@
 			<PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
 			<RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
 			<WarningLevel>Level3</WarningLevel>
-			<AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);src;..\..\..\..\..\addons\ofxConstants\src;..\..\..\..\..\addons\ofxMD5Convert\src;..\..\..\..\..\addons\ofxMyDataSender\src;..\..\..\..\..\addons\ofxMyVideoControl\src;..\..\..\..\..\addons\ofxNetwork\src;..\..\..\..\..\addons\ofxPublicCmd\src;..\..\..\..\..\addons\ofxSerial\src;..\..\..\..\..\addons\ofxXmlSettings\libs;..\..\..\..\..\addons\ofxXmlSettings\src</AdditionalIncludeDirectories>
+			<AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);src;..\..\..\..\..\addons\ofxConstants\src;..\..\..\..\..\addons\ofxHardIdentification\src;..\..\..\..\..\addons\ofxMD5Convert\src;..\..\..\..\..\addons\ofxMyAppControl\src;..\..\..\..\..\addons\ofxMyDataSender\src;..\..\..\..\..\addons\ofxMyVideoControl\src;..\..\..\..\..\addons\ofxNetwork\src;..\..\..\..\..\addons\ofxPublicCmd\src;..\..\..\..\..\addons\ofxSerial\src;..\..\..\..\..\addons\ofxXmlSettings\libs;..\..\..\..\..\addons\ofxXmlSettings\src</AdditionalIncludeDirectories>
 			<CompileAs>CompileAsCpp</CompileAs>
 			<ObjectFileName>$(IntDir)</ObjectFileName>
 		</ClCompile>
@@ -183,10 +183,15 @@
 		<ClCompile Include="src\main.cpp" />
 		<ClCompile Include="src\ofApp.cpp" />
 		<ClCompile Include="..\..\..\..\..\addons\ofxConstants\src\ofxMyConstants.cpp" />
+		<ClCompile Include="..\..\..\..\..\addons\ofxHardIdentification\src\ofxBaseBoard.cpp" />
+		<ClCompile Include="..\..\..\..\..\addons\ofxHardIdentification\src\ofxCPU.cpp" />
+		<ClCompile Include="..\..\..\..\..\addons\ofxHardIdentification\src\ofxHardIdentification.cpp" />
+		<ClCompile Include="..\..\..\..\..\addons\ofxHardIdentification\src\ofxIdentificationMgr.cpp" />
 		<ClCompile Include="..\..\..\..\..\addons\ofxMD5Convert\src\cmdConverter.cpp" />
 		<ClCompile Include="..\..\..\..\..\addons\ofxMD5Convert\src\md5Converter.cpp" />
 		<ClCompile Include="..\..\..\..\..\addons\ofxMD5Convert\src\nullConverter.cpp" />
 		<ClCompile Include="..\..\..\..\..\addons\ofxMD5Convert\src\timeSynMd5Converter.cpp" />
+		<ClCompile Include="..\..\..\..\..\addons\ofxMyAppControl\src\ofxAppControl.cpp" />
 		<ClCompile Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSender.cpp" />
 		<ClCompile Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSenderFacory.cpp" />
 		<ClCompile Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSenderMgr.cpp" />
@@ -208,11 +213,16 @@
 	<ItemGroup>
 		<ClInclude Include="src\ofApp.h" />
 		<ClInclude Include="..\..\..\..\..\addons\ofxConstants\src\ofxMyConstants.h" />
+		<ClInclude Include="..\..\..\..\..\addons\ofxHardIdentification\src\ofxBaseBoard.h" />
+		<ClInclude Include="..\..\..\..\..\addons\ofxHardIdentification\src\ofxCPU.h" />
+		<ClInclude Include="..\..\..\..\..\addons\ofxHardIdentification\src\ofxHardIdentification.h" />
+		<ClInclude Include="..\..\..\..\..\addons\ofxHardIdentification\src\ofxIdentificationMgr.h" />
 		<ClInclude Include="..\..\..\..\..\addons\ofxMD5Convert\src\cmdConverter.h" />
 		<ClInclude Include="..\..\..\..\..\addons\ofxMD5Convert\src\md5.h" />
 		<ClInclude Include="..\..\..\..\..\addons\ofxMD5Convert\src\md5Converter.h" />
 		<ClInclude Include="..\..\..\..\..\addons\ofxMD5Convert\src\nullConverter.h" />
 		<ClInclude Include="..\..\..\..\..\addons\ofxMD5Convert\src\timeSynMd5Converter.h" />
+		<ClInclude Include="..\..\..\..\..\addons\ofxMyAppControl\src\ofxAppControl.h" />
 		<ClInclude Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSender.h" />
 		<ClInclude Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSenderFacory.h" />
 		<ClInclude Include="..\..\..\..\..\addons\ofxMyDataSender\src\ofxDataSenderMgr.h" />

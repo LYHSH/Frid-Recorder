@@ -1,0 +1,20 @@
+<DATA_SENDER>
+	<!-- <SERIAL>
+		<COM>COM4</COM>
+		<N_BAUD>9600</N_BAUD>
+	</SERIAL> -->
+	<UDP>
+		<IP>127.0.0.1</IP>
+		<PORT>18888</PORT>
+	</UDP>
+	<!-- <TCP>
+		<IP>127.0.0.1</IP>
+		<PORT>6000</PORT>
+	</TCP> -->
+</DATA_SENDER>
+
+<cmd>0</cmd>
+<cmd>1</cmd>
+<cmd>2</cmd>
+<cmd>3</cmd>
+<cmd>4</cmd>

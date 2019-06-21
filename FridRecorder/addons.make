@@ -1,5 +1,7 @@
 ofxConstants
+ofxHardIdentification
 ofxMD5Convert
+ofxMyAppControl
 ofxMyDataSender
 ofxMyVideoControl
 ofxNetwork

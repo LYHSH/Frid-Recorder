@@ -3,6 +3,10 @@
 #include "ofMain.h"
 #include "ofxRemoteVideoControlMgr.h"
 #include "ofxXmlSettings.h"
+#include "ofxDataSenderMgr.h"
+
+void onHotKey(HWND handle,UINT message, WPARAM wParam, LPARAM lParam);
+
 class ofApp : public ofBaseApp{
 
 	public:
@@ -21,8 +25,13 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
+		void exit();
 		
 		void reset();
+		
+		map<int, char> hotKeys;
+		void registerHotKey();
+		void unregisterHotKey();
 
 		float readTimeLen;
 		float readTimer;
@@ -40,4 +49,9 @@ class ofApp : public ofBaseApp{
 		bool debug;
 
 		bool readEndFlag;
+
+
+		vector<string> remoteCmds;
+		ofxDataSenderMgr senderMgr;
+		ofxDataSender * sender;
 };
